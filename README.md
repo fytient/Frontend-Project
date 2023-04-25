@@ -1,5 +1,5 @@
 # React Craft Beer Store
-This project demonstrates my proficiency in React and front-end development, as well as my ability to design and implement a full-featured e-commerce website.
+This project demonstrates my proficiency in React and front-end development, as well as my ability to design and implement a full-featured craft beer store website.
 ## Project Description:
 
 This is a React-based craft beer store website that allows users to browse and purchase products. The website has a user-friendly interface that features a modern design and seamless navigation. The website includes the following key features:
