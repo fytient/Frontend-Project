@@ -1,4 +1,5 @@
-# React Craft Beer Store
+# Craft Beer Frontend Website
+
 This project demonstrates my proficiency in React and front-end development, as well as my ability to design and implement a full-featured craft beer store website.
 ## Project Description:
 
